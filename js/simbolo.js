@@ -1,5 +1,5 @@
 /* Cicclos · símbolo animado em repouso
- * Recriação em código do GIF de referência (site-cicclos/assets/original-*.gif), sem o azul:
+ * Recriação em código do GIF de referência (site-cicclos/producao/fonte/simbolo-original.gif), sem o azul:
  * uma fita de fios de luz que formam o anel; cada fio é um círculo com ondas de 2 e 3 lóbulos,
  * com a fase deslocada em relação ao vizinho. Os fios se abrem e se juntam, e a crista gira.
  * Não é um loop fixo: um "humor" lento alterna momentos calmos (fios juntos, onda lenta) e
